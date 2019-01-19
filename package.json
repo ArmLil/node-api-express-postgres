@@ -1,0 +1,19 @@
+{
+  "name": "api-postgres",
+  "version": "1.0.0",
+  "description": "CRUD with express and postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmLil/node-api-express-postgres.git"
+  },
+  "author": "Lili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmLil/node-api-express-postgres/issues"
+  },
+  "homepage": "https://github.com/ArmLil/node-api-express-postgres#readme"
+}
